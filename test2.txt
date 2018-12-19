@@ -1,1 +1,7 @@
 Drugi nowy tekst
+
+int main () {
+
+return 0;
+
+}
