@@ -2,6 +2,8 @@ Drugi nowy tekst
 
 int main () {
 
-return 1;
+float b = 7.0;
+
+return b;
 
 }
